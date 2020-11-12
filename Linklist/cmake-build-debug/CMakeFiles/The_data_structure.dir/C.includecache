@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/qinmenghui/CLionProjects/The data structure/cmake-build-debug/link.c
+stdio.h
+/Users/qinmenghui/CLionProjects/The data structure/cmake-build-debug/stdio.h
+string.h
+/Users/qinmenghui/CLionProjects/The data structure/cmake-build-debug/string.h
+math.h
+/Users/qinmenghui/CLionProjects/The data structure/cmake-build-debug/math.h
+
